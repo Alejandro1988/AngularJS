@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AngularJS.iml" filepath="$PROJECT_DIR$/.idea/AngularJS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AngularJS.iml" filepath="$PROJECT_DIR$/AngularJS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AppMarket/AppMarket.iml" filepath="$PROJECT_DIR$/AppMarket/AppMarket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BoltNetwork/BoltNetwork.iml" filepath="$PROJECT_DIR$/BoltNetwork/BoltNetwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BooksTutorial/BooksTutorial.iml" filepath="$PROJECT_DIR$/BooksTutorial/BooksTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhoneTutorial/PhoneTutorial.iml" filepath="$PROJECT_DIR$/PhoneTutorial/PhoneTutorial.iml" />
+    </modules>
+  </component>
+</project>
